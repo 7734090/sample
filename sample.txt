@@ -1,6 +1,2 @@
 sample
-<<<<<<< HEAD
-sample
-=======
-elpmas
->>>>>>> fb45bf634bd44ab1f407b87c196813ba235a39a5
+ERROR TEST
